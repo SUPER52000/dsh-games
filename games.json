@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "SUPER52000 的小游戏",
+  "author": "SUPER52000",
+  "updatedAt": "2026-11-11T14:49:24.028Z",
+  "games": [
+    {
+      "slug": "game-studio-demo",
+      "title": "月夜小狐狸",
+      "url": "game-studio-demo/",
+      "cover": "game-studio-demo/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-11T14:49:24.028Z"
+    }
+  ],
+  "wall": null
+}

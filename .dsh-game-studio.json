@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "game-studio-demo": {
+      "title": "月夜小狐狸",
+      "source": "f2f81440915d4ed8",
+      "publishedAt": "2026-11-11T14:49:24.028Z",
+      "buildId": "f8e68f6e20c9",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "cover": "game-studio-demo/cover.jpg"
+    }
+  },
+  "wall": null
+}
